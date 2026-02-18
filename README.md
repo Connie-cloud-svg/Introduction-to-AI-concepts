@@ -8,15 +8,16 @@ A collaborative guide by [list all team member names].
 - [Computer Vision](#computer-vision)
 - [Large Language Models](#large-language-models)
   
-## Introduction
+## Introduction.
 
 
 
-## VS Code
+
+## Machine Learning 
 <!-- [Team Member 1 Name] will write this section -->
 
-## Notion
+## Computer Vision
 <!-- [Team Member 2 Name] will write this section -->
 
-## Canva
+## Large Language Models
 <!-- [Team Member 3 Name] will write this section -->
