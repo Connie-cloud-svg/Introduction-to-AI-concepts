@@ -1,6 +1,6 @@
 # Introduction-to-AI-concepts
 
-A collaborative guide by [list all team member names].
+A collaborative guide by [Connie,Ian and Terah]
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@ A collaborative guide by [list all team member names].
 - [Large Language Models](#large-language-models)
   
 ## Introduction.
-In itself, Artificial Intelligence (AI) is a branch of computer science dedicated to building machines and software that replicate or simulate human-like intelligence. AI is generally recognized as a system's ability to perceive its environment, reason through problems, and take actions to achieve a specific goal without being explicitly programmed for every single step.Below we shall cover three of it's concepts:
+In itself, Artificial Intelligence (AI) is a branch of computer science dedicated to building machines and software that replicate or simulate human-like intelligence. AI is generally recognized as a system's ability to perceive its environment, reason through problems, and take actions to achieve a specific goal without being explicitly programmed for every single step.We shall cover three of its concepts.
 
 ## Machine Learning 
 **Machine learning** is a subset of artificial intelligence (AI) that enables computers to learn from data and improve at tasks without being explicitly programmed for every rule.
@@ -19,7 +19,7 @@ In itself, Artificial Intelligence (AI) is a branch of computer science dedicate
 - **Algorithms vs. Models:** An algorithm is the set of rules used to solve a problem, while a model is the trained output used to make predictions.
 - **Data Training:** Systems analyze vast amounts of data (e.g., thousands of labeled images) to recognize patterns.
 - **Foundations:** Machine learning relies heavily on mathematics, statistics, and programming.
----
+---  
 
 ### Key Types of Machine Learning.
 They include:
