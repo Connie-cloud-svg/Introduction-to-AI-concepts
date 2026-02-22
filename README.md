@@ -19,7 +19,7 @@ In itself, Artificial Intelligence (AI) is a branch of computer science dedicate
 - **Algorithms vs. Models:** An algorithm is the set of rules used to solve a problem, while a model is the trained output used to make predictions.
 - **Data Training:** Systems analyze vast amounts of data (e.g., thousands of labeled images) to recognize patterns.
 - **Foundations:** Machine learning relies heavily on mathematics, statistics, and programming.
----
+---  
 
 ### Key Types of Machine Learning.
 They include:
