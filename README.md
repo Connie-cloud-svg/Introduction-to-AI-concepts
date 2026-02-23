@@ -399,6 +399,7 @@ It is:
 
 If your math is weak, your AI ceiling is low.
 
+<<<<<<< HEAD
 # 13. New topics for large language models
 * Fine-tuning & Adaptation
 
@@ -412,6 +413,13 @@ If your math is weak, your AI ceiling is low.
 
 * Meta’s LLaMA models & tutorials
 
+# 14. Resources
+* http://jalammar.github.io/illustrated-transformer/
+>>>>>>> 76f36e461d4fe0e0d99c4eaec6d049c9fd777eb9
+
+* https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+* https://huggingface.co/course/chapter1
 ### Integration of Computer Vision, Machine Learning, and Large Language Models
 
 The integration of computer vision, machine learning, and large language models (LLMs) represents a significant advancement in artificial intelligence, enabling more sophisticated interactions between machines and the world. 
