@@ -399,9 +399,18 @@ It is:
 
 If your math is weak, your AI ceiling is low.
 
-No shortcuts.
+# 13. New topics for large language models
+* Fine-tuning & Adaptation
 
----
+* Hugging Face LoRA & PEFT tutorials
+
+* RAG (Retrieval-Augmented Generation) tutorials on YouTube & Hugging Face
+
+* Multimodal Models
+
+* OpenAI GPT-4V examples
+
+* Meta’s LLaMA models & tutorials
 
 ### Integration of Computer Vision, Machine Learning, and Large Language Models
 
