@@ -399,10 +399,15 @@ It is:
 
 If your math is weak, your AI ceiling is low.
 
-No shortcuts.
+# 13. New topic
+putting resources in place..
 
----
+# 14. Resources
+* http://jalammar.github.io/illustrated-transformer/
 
+* https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+* https://huggingface.co/course/chapter1
 ### Integration of Computer Vision, Machine Learning, and Large Language Models
 
 The integration of computer vision, machine learning, and large language models (LLMs) represents a significant advancement in artificial intelligence, enabling more sophisticated interactions between machines and the world. 
