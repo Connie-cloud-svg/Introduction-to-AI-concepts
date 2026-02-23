@@ -40,7 +40,7 @@ They include:
 ---
 
 #### How to Enroll in a Machine Learning Course.
-Use some of the links below to a machine learning course level of your choice:
+Use some of the links below to a machine learning course level of your choice;
 - [Udemy](https://www.udemy.com)
 - [DataCamp](https://www.datacamp.com)
 - [Coursera](https://www.coursera.org/courses?query=free&skills=Machine%20Learning)
