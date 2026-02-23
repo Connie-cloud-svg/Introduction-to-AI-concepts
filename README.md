@@ -65,6 +65,19 @@ Use some of the links below to a machine learning course level of your choice;
 3.	Image Segmentation
 4.	Feature Extraction
 
+### Object Tracking: An Overview
+
+- Object tracking is a vital aspect of computer vision and robotics, focusing on identifying and monitoring moving objects within a video stream. This technology is essential in fields such as surveillance, autonomous driving, and augmented reality.
+
+- At its core, object tracking involves two main tasks: **detection** and **tracking**. Initially, algorithms like convolutional neural networks (CNNs) detect objects in individual frames. Subsequently, tracking algorithms maintain the identity of these objects across multiple frames using techniques such as Kalman filters and Optical Flow.
+
+- The significance of object tracking has grown with increasing demands for security and automation. For instance, in surveillance systems, it helps identify suspicious activities, while in autonomous vehicles, it enables real-time responses to pedestrians and obstacles.
+
+- Despite advancements, challenges remain, particularly in dynamic environments where occlusion and lighting variations can hinder performance. Ongoing research aims to improve accuracy and robustness.
+
+> In summary, object tracking bridges the gap between digital perception and real-world interactions, with promising innovations expected as AI and machine learning continue to evolve.
+---
+
 ## Useful Links 
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/) - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
