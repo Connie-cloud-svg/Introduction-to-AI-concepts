@@ -412,6 +412,9 @@ If your math is weak, your AI ceiling is low.
 * OpenAI GPT-4V examples
 
 * Meta’s LLaMA models & tutorials
+=======
+# 13. New topic
+putting resources in place..
 
 # 14. Resources
 * http://jalammar.github.io/illustrated-transformer/
